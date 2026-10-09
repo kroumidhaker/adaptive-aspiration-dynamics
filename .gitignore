@@ -1,0 +1,6 @@
+simulate
+*.o
+.ipynb_checkpoints/
+.DS_Store
+__MACOSX/
+.Rhistory
